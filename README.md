@@ -1,13 +1,11 @@
-<img width="100%" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 
 <h1 align="center">Hi 👋, I'm Benazir</h1>
 <h3 align="center">A passionate MERN STACK developer from TamilNadu</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlrNzI0Z3N4ZTljbDliaDBwOGl4dW50M3I2d3NhdTc5eDR6eHBsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benazir1&label=Profile%20views&color=0e75b6&style=flat" alt="benazir1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benazir1" alt="benazir1" /></a> </p>
 
 - 🌱 I’m currently learning **React,mongoDb,nodejs**
 

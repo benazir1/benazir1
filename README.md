@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **React,mongoDb,nodejs**
+- 🌱 I’m currently learning **React,mongoDb,Nodejs**
 
 - 💬 Ask me about **MERN**
 

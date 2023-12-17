@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **benazir1989@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GHHSWjULI-oDvmOzuxfu3EdQep925zht/view?usp=sharing](https://drive.google.com/file/d/1GHHSWjULI-oDvmOzuxfu3EdQep925zht/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1GHHSWjULI-oDvmOzuxfu3EdQep925zht/view?usp=sharing](https://drive.google.com/file/d/17JXt7x-F5Qvu_GWWfmuTlhcr00kPfn-L/view)]
 
 - ⚡ Fun fact **I think I am funny**
 
